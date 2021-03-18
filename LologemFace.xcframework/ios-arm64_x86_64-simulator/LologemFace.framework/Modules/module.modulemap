@@ -1,0 +1,11 @@
+framework module LologemFace {
+  umbrella header "LologemFace.h"
+
+  export *
+  module * { export * }
+}
+
+module LologemFace.Swift {
+    header "LologemFace-Swift.h"
+    requires objc
+}

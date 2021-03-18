@@ -1,0 +1,68 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3 effective-4.2 (swiftlang-1200.0.29.2 clang-1200.0.30.1)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 4.2 -enforce-exclusivity=checked -O -module-name LologemFace
+import ARKit
+@_exported import LologemFace
+import SceneKit
+import Swift
+import UIKit.UIGestureRecognizerSubclass
+import UIKit
+@objc @_inheritsConvenienceInitializers public class AccRenderLow : ObjectiveC.NSObject {
+  public func removeEarring()
+  public func addEarring(_ leftURL: Foundation.URL, _ rightURL: Foundation.URL, _ scene: SceneKit.SCNScene!)
+  public func update(_ centerTransform: simd.simd_float4x4, _ geometry: SceneKit.SCNGeometry?, _ vertices: Swift.UnsafePointer<simd.simd_float3>)
+  public func moveXPos(_ value: Swift.Bool)
+  public func moveYPos(_ value: Swift.Bool)
+  @objc deinit
+  @objc override dynamic public init()
+}
+@objc @_inheritsConvenienceInitializers public class EyeRenderLow : ObjectiveC.NSObject {
+  public func removeEyewear()
+  public func addEyewear(_ url: Foundation.URL, _ scene: SceneKit.SCNScene!)
+  public func update(_ centerTransform: simd.simd_float4x4, _ geometry: SceneKit.SCNGeometry?, _ vertices: Swift.UnsafePointer<simd.simd_float3>)
+  public func moveXPos(_ value: Swift.Bool)
+  public func moveYPos(_ value: Swift.Bool)
+  @objc deinit
+  @objc override dynamic public init()
+}
+@objc @_inheritsConvenienceInitializers public class LologemFaceVC : LologemFace.RenderViewController {
+  @objc override dynamic public func viewDidLoad()
+  @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
+  @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
+  override public func setEnvironmentImg(_ img: UIKit.UIImage)
+  override public func addEarring(_ leftFileURL: Foundation.URL, _ rightFileURL: Foundation.URL)
+  override public func addEyewear(_ eyeWearURL: Foundation.URL)
+  override public func moveXPos(_ value: Swift.Bool)
+  override public func moveYPos(_ value: Swift.Bool)
+  @objc deinit
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+@objc @_inheritsConvenienceInitializers public class ValueManager : ObjectiveC.NSObject {
+  public static let cameraZNear: CoreGraphics.CGFloat
+  public static let cameraZFar: CoreGraphics.CGFloat
+  public static let motionInterval: Swift.Double
+  public static var earX: CoreGraphics.CGFloat
+  public static var earY: CoreGraphics.CGFloat
+  public static var eyeZ: CoreGraphics.CGFloat
+  public static var eyeY: CoreGraphics.CGFloat
+  public static var lowViewIntensity: CoreGraphics.CGFloat
+  public static var productMoveValue: Swift.Float
+  public static var viewBounds: CoreGraphics.CGRect? {
+    get
+  }
+  public static func getLight() -> SceneKit.SCNNode
+  @objc deinit
+  @objc override dynamic public init()
+}
+@objc @_inheritsConvenienceInitializers open class RenderViewController : UIKit.UIViewController {
+  open func setEnvironmentImg(_ img: UIKit.UIImage)
+  open func addEarring(_ leftFileURL: Foundation.URL, _ rightFileURL: Foundation.URL)
+  open func addEyewear(_ eyeWearURL: Foundation.URL)
+  open func enableContentGesture()
+  open func moveXPos(_ value: Swift.Bool)
+  open func moveYPos(_ value: Swift.Bool)
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
