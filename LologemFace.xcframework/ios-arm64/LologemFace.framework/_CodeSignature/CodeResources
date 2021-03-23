@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/LologemFace-Swift.h</key>
 		<data>
-		Csb0Q/i3w++WDijcdNttJXDsmiI=
+		xxO1G0TQuGps8QAq6vb82NDa50E=
 		</data>
 		<key>Headers/LologemFace.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3wE+8f9CdyEDQLb9dpbiibxQ40U=
+		8stOcQ0iabzl7sv359VrW3zLFPU=
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		rMvx6bh9QQ4OCfOV9W6ljWEclH8=
+		zMRi4H4VgH/uddWFipmmvcDzqvg=
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		QAZDYlV7OCg3+GVKWJXx6pFOXvg=
+		8viSXTCWY58phHbDoFZNPrDZr7c=
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QIKh6x4rMpSunFWja3dFkHnCAhA=
+		7uCNgHwsmxM3iO+0PrGC4aY+N2c=
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		rMvx6bh9QQ4OCfOV9W6ljWEclH8=
+		zMRi4H4VgH/uddWFipmmvcDzqvg=
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		QAZDYlV7OCg3+GVKWJXx6pFOXvg=
+		8viSXTCWY58phHbDoFZNPrDZr7c=
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		QIKh6x4rMpSunFWja3dFkHnCAhA=
+		7uCNgHwsmxM3iO+0PrGC4aY+N2c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mPqdzVSSJPDJsQFUUa4/RHb3Ddq65MQ6LoakiIzVv2s=
+			8iKqzGIULzOiWsQP9flTlWI76AN9hpniRrDHTZ2bq9U=
 			</data>
 		</dict>
 		<key>Headers/LologemFace.h</key>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FhKtvjAPAx1aIs1eoXeDgApNOirbGBh8eOQpLgOtpSo=
+			9I0trJC/SXgT10s2cxhAcLf/iKZdee01yZd5PzRLGyk=
 			</data>
 		</dict>
 		<key>Modules/LologemFace.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o+29ga1GY685QJreAjKAq6XfshfECGLPt5LrCT1IwPI=
+			F/ANye2STWbCHefFzZyNc8Sg8aHcmhXz79Va1nYcZ5Q=
 			</data>
 		</dict>
 		<key>Modules/LologemFace.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UNXj5/jjAp75bPsggFupHcXto2+fBRyVCJncK68Rerg=
+			HswR/GjPe3SwDIFRKjzSq6cfFtBfxB962AjgPw5obuI=
 			</data>
 		</dict>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FhKtvjAPAx1aIs1eoXeDgApNOirbGBh8eOQpLgOtpSo=
+			9I0trJC/SXgT10s2cxhAcLf/iKZdee01yZd5PzRLGyk=
 			</data>
 		</dict>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o+29ga1GY685QJreAjKAq6XfshfECGLPt5LrCT1IwPI=
+			F/ANye2STWbCHefFzZyNc8Sg8aHcmhXz79Va1nYcZ5Q=
 			</data>
 		</dict>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UNXj5/jjAp75bPsggFupHcXto2+fBRyVCJncK68Rerg=
+			HswR/GjPe3SwDIFRKjzSq6cfFtBfxB962AjgPw5obuI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
