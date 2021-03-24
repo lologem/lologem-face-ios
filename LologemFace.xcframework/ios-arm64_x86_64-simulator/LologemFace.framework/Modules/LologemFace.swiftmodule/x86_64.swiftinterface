@@ -34,6 +34,7 @@ import UIKit
   override public func addEyewear(_ eyeWearURL: Foundation.URL)
   override public func moveXPos(_ value: Swift.Bool)
   override public func moveYPos(_ value: Swift.Bool)
+  override public func capture() -> UIKit.UIImage
   @objc deinit
   @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @objc required dynamic public init?(coder: Foundation.NSCoder)
@@ -59,6 +60,7 @@ import UIKit
   open func setEnvironmentImg(_ img: UIKit.UIImage)
   open func addEarring(_ leftFileURL: Foundation.URL, _ rightFileURL: Foundation.URL)
   open func addEyewear(_ eyeWearURL: Foundation.URL)
+  open func capture() -> UIKit.UIImage
   open func enableContentGesture()
   open func moveXPos(_ value: Swift.Bool)
   open func moveYPos(_ value: Swift.Bool)
