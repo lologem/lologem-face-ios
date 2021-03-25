@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/LologemFace-Swift.h</key>
 		<data>
-		xxO1G0TQuGps8QAq6vb82NDa50E=
+		eq9QI0YK2NzfRyzutCYfS2E9YIc=
 		</data>
 		<key>Headers/LologemFace.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		DZ/dszkJrR96l9f3qrbV3t6BjO0=
+		jKDtZMpXFrFB/vev9+bHdVUerRE=
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		DZ/dszkJrR96l9f3qrbV3t6BjO0=
+		jKDtZMpXFrFB/vev9+bHdVUerRE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8iKqzGIULzOiWsQP9flTlWI76AN9hpniRrDHTZ2bq9U=
+			Gf/XIZuXXO3xqMU+lY1Y7tVE1wf/rrrWlUZP3B+3Myw=
 			</data>
 		</dict>
 		<key>Headers/LologemFace.h</key>
@@ -79,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bp6wJi+F4FAeKp4ZtGRa1bfWNBG+3V616DiHVpQl1to=
+			OyxDvwmhpZrVbsp6UO+NvfyUjkkggIhonqtS5m1/Lqs=
 			</data>
 		</dict>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bp6wJi+F4FAeKp4ZtGRa1bfWNBG+3V616DiHVpQl1to=
+			OyxDvwmhpZrVbsp6UO+NvfyUjkkggIhonqtS5m1/Lqs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

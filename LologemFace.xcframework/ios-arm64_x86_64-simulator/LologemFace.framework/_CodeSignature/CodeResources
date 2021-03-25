@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/LologemFace-Swift.h</key>
 		<data>
-		i6WpIFc/Ie0f7qvxPgKW/dAUZBQ=
+		0vYHrjfqFTNdaJEkVtyyOaZbiTA=
 		</data>
 		<key>Headers/LologemFace.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		teQWjVh8uea0dS74EMAnnxVhIcE=
+		3kl249aeymmj2OYka4A7TwHMf+4=
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		teQWjVh8uea0dS74EMAnnxVhIcE=
+		3kl249aeymmj2OYka4A7TwHMf+4=
 		</data>
 		<key>Modules/LologemFace.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/LologemFace.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Y4hEYv+ac1xwcX9iDkKwBM82wTg=
+		ehEYY7sukpBkNyGd1+FJt+q7tKU=
 		</data>
 		<key>Modules/LologemFace.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/LologemFace.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Y4hEYv+ac1xwcX9iDkKwBM82wTg=
+		ehEYY7sukpBkNyGd1+FJt+q7tKU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nNI2I7Y9AjOD8+ANbzDwXJIRltvrpv9/ISDzUdPrG1U=
+			ah1ZzcXxDIn+4B7n42DcgEoKd9L8xucyj83oVUB68YY=
 			</data>
 		</dict>
 		<key>Headers/LologemFace.h</key>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gMlFif5gCtDx7KG+Hmr/lFDyhr18JQZXzWe5YA2nU3o=
+			bkYEgUsr8T3GOqFyHT8z1jQsnBZ1zCXcv2GogYwfX2g=
 			</data>
 		</dict>
 		<key>Modules/LologemFace.swiftmodule/arm64.swiftdoc</key>
@@ -124,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gMlFif5gCtDx7KG+Hmr/lFDyhr18JQZXzWe5YA2nU3o=
+			bkYEgUsr8T3GOqFyHT8z1jQsnBZ1zCXcv2GogYwfX2g=
 			</data>
 		</dict>
 		<key>Modules/LologemFace.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Bxl5Gof1r9FzwaQuEobMnr0JITcibF7hAIKrfM7jE4=
+			gyItgUBIYhwQtux5ZuPvya9Qfjn5QWUOEKulC1hAK6g=
 			</data>
 		</dict>
 		<key>Modules/LologemFace.swiftmodule/x86_64.swiftdoc</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Bxl5Gof1r9FzwaQuEobMnr0JITcibF7hAIKrfM7jE4=
+			gyItgUBIYhwQtux5ZuPvya9Qfjn5QWUOEKulC1hAK6g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "LologemFaceSDK"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "Lologem FaceAR iOS Framework"
 
   spec.description  = "Lologem FaceAR SDK for iOS Application"

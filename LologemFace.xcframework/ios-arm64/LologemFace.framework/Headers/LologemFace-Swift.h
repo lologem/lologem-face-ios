@@ -240,6 +240,7 @@ SWIFT_CLASS("_TtC11LologemFace13LologemFaceVC")
 
 
 
+
 SWIFT_CLASS("_TtC11LologemFace12ValueManager")
 @interface ValueManager : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;

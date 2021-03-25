@@ -242,6 +242,7 @@ SWIFT_CLASS("_TtC11LologemFace13LologemFaceVC")
 
 
 
+
 SWIFT_CLASS("_TtC11LologemFace12ValueManager")
 @interface ValueManager : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -493,6 +494,7 @@ SWIFT_CLASS("_TtC11LologemFace13LologemFaceVC")
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 
 
