@@ -53,6 +53,8 @@ import UIKit
     get
   }
   public static func getLight() -> SceneKit.SCNNode
+  public static func setAuth(_ bundleID: Swift.String, _ pluginID: Swift.String)
+  public static func isAuth() -> Swift.Bool
   @objc deinit
   @objc override dynamic public init()
 }
